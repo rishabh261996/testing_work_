@@ -1,8 +1,8 @@
 Flask>=2.2.2
 Flask-SQLAlchemy==2.5.1
-keras==3.0.0
-sqlalchemy==1.4.20
-psycopg2-binary==2.9.1
+keras
+sqlalchemy
+psycopg2-binary
 pytest==7.4.2
 werkzeug>=2.2.2
 tensorflow==2.16.1
