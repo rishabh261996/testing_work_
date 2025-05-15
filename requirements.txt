@@ -2,7 +2,6 @@ Flask>=2.2.2
 werkzeug>=2.2.2
 tensorflow==2.16.1
 vaderSentiment==3.3.2
-gunicorn==19.3.0
 numpy>=1.24.0
 textblob
 plotly
